@@ -1,0 +1,1 @@
+Git commit is used for saving snapshot of changes in repo
